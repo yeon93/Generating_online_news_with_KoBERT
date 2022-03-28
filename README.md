@@ -49,6 +49,12 @@
 
 + 참고자료
   + https://wikidocs.net/92961
+  + https://wandb.ai/wandb_fc/korean/reports/Weights-Biases-Pytorch-Lightning---VmlldzozNzAxOTg
+  + https://www.slideshare.net/TaekyoonChoi/taekyoon-choi-pycon
+  + https://huggingface.co/docs/transformers/v4.17.0/en/index
+  + https://linuxtut.com/en/9f37631561379ca06ee5/
+  + https://velog.io/@seolini43/KOBERT%EB%A1%9C-%EB%8B%A4%EC%A4%91-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%ACColab
+  + https://notebook.community/huggingface/pytorch-transformers/notebooks/02-transformers
 
 ## 3. 단락 연결 여부 검사 
 +
