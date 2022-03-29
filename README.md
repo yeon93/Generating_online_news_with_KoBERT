@@ -57,8 +57,8 @@
   + https://notebook.community/huggingface/pytorch-transformers/notebooks/02-transformers
 
 ## 3. 단락 연결 여부 검사 
-+
-+ 결과
++ BertForNextSentencePrediction 모델 이용, 모두의말뭉치 데이터로 Fine Tuning
++ 
  + 파라미터 :
  + train_acc :
  + test_acc :
